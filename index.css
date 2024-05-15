@@ -10,7 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #57b3c4;
+    background-color: hsl(30, 38%, 92%);
 }
 .container {
     display: flex;
